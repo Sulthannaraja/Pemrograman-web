@@ -1,0 +1,12 @@
+<!DOCTPE html>
+<html lang="en">
+<head>
+<Title>Sulthan Tegar Naraja</title>
+</head>
+<body>
+<script language="javascript">
+docoment.write("Belajar pemrograman javascript!");
+</script>
+
+</body>
+</html>
