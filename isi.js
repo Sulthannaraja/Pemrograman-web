@@ -1,4 +1,4 @@
-document.writen("<center>");
+document.writeln("<center>");
 document.writeln("<hr width=600 color=black>");
 document.writeln("<h1>UNIVERSITAS LAMPUNG</h1>");
 document.writeln("<h2>PENDIDIKAN TEKNOLOGI INFORMASI</h2>");
